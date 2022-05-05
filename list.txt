@@ -12,15 +12,10 @@ maz9tlz72k.feishu.cn##.not-compatible__announce
 ! 2022-02-22 https://live.bilibili.com
 live.bilibili.com###switch-login-guide-vm
 
-! 2022-03-22 GDPR popups
-stackexchange.com##.js-consent-banner
-stackoverflow.com##.js-consent-banner
-askubuntu.com##.js-consent-banner
-mathoverflow.net##.js-consent-banner
+! 2022-03-22 popups
 opensource.com###block-socialmediashareicons
 link.springer.com##.cc-banner
 www.sealights.io##.sp-banner-show
-software.ac.uk###gdpr-popup
 
 ! 2022-03-06 copycat websites
 google.*##.g:has(a[href*="3rxing.org"])
