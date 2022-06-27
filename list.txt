@@ -16,6 +16,7 @@ live.bilibili.com###switch-login-guide-vm
 opensource.com###block-socialmediashareicons
 link.springer.com##.cc-banner
 www.sealights.io##.sp-banner-show
+||ogs.google.com/widget/callout$subdocument
 
 ! 2022-03-06 copycat websites
 google.*##.g:has(a[href*="3rxing.org"])
