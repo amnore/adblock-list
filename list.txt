@@ -79,3 +79,6 @@ google.*##.g:has(a[href*="www.i4k.xyz"])
 google.*##.g:has(a[href*="www.1024sou.com"])
 google.*##.g:has(a[href*="www.programminghunter.com"])
 google.*##.g:has(a[href*="toutiao.com"])
+
+! Aug 11, 2024 https://fcdm6.com
+fcdm6.com##div:matches-css(z-index: 100)
